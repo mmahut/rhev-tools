@@ -1,4 +1,4 @@
 rhev-tools
 ==========
 
-nagios - nagios plugins for RHEV
+nagios/ - nagios plugins and scritps for RHEV
